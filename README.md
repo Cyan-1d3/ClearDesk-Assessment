@@ -1,4 +1,4 @@
-
+```
 Penetration Test & Security Assessment Report: ClearDesk
 
 
@@ -102,3 +102,4 @@ To secure the ClearDesk platform against these attack vectors, the following str
 3. Credential Hygiene
 
 • Data Minimization: Ensure sensitive secrets, passwords, or tokens are never stored within support tickets or communication logs. Implement a secure enterprise secrets manager for credentials.
+```
